@@ -1,0 +1,14 @@
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.exe
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.deps.json
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.runtimeconfig.json
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.runtimeconfig.dev.json
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.dll
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\bin\Debug\netcoreapp3.1\prime numbers.pdb
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.csproj.AssemblyReference.cache
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.AssemblyInfoInputs.cache
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.AssemblyInfo.cs
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.dll
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.pdb
+C:\Users\Mr Reda Kamal\source\repos\prime numbers\prime numbers\obj\Debug\netcoreapp3.1\prime numbers.genruntimeconfig.cache
